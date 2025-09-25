@@ -26,60 +26,72 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="Making reselling profitable"
+	text="We transform complex marketplace data into actionable insights that help Vinted resellers identify trending items, optimize pricing, and maximize profits. Our analytics platform eliminates guesswork, so you can scale your side hustle into a thriving business with confidence."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maya Chen",
+			position: "Vintage Clothing Reseller",
+			company: "MayaStyle Vintage",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before Vinted Insights, I spent 3 hours daily researching pricing and trends. Now it takes 15 minutes.\nI've increased my profit margins by 45% and can focus on sourcing quality pieces instead of endless data analysis.",
+			image: "/generated/image-professional-headshot-of-an-asian-woman-.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Carlos Rodriguez",
+			position: "Part-time Reseller",
+			company: "Weekend Finds",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The competitive intelligence saved me from buying items that wouldn't sell. Last month alone, I avoided $800 in dead inventory.\nThe trend predictions helped me stock up on 90s sportswear before it exploded, making €2,400 profit in two weeks.",
+			image: "/generated/image-professional-headshot-of-a-hispanic-man-.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Keisha Williams",
+			position: "Full-time Reseller",
+			company: "Keisha's Closet",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The pricing optimization tool automatically adjusts my listings based on market demand. My items sell 60% faster now.\nI've scaled from €500 to €3,200 monthly revenue in just 4 months using the platform's insights.",
+			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Unlock profitable insights"
+	subtitle="Everything you need to maximize your Vinted reselling profits with data-driven intelligence"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Real-time trend identification",
+			description: "Spot emerging fashion trends and popular items before your competitors do. Get instant alerts when demand spikes to maximize your profit opportunities.",
+			imageSrc: "/generated/image-a-diverse-group-of-people-in-a-modern-re.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Competitive pricing intelligence",
+			description: "Automatically analyze competitor pricing across thousands of listings. Price your items perfectly to sell fast while maximizing profit margins.",
+			imageSrc: "/generated/image-a-team-of-professionals-in-a-bright-mini.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Market opportunity discovery",
+			description: "Discover untapped niches and high-demand categories with low competition. Find profitable items that other resellers are missing completely.",
+			imageSrc: "/generated/image-a-group-of-business-professionals-in-a-w.webp"
+		},
+		{
+			title: "Automated research engine",
+			description: "Stop spending hours manually researching items and trends. Our AI analyzes millions of listings to deliver instant insights directly to you.",
+			imageSrc: "/generated/image-researchers-in-a-tidy-sunlit-workspace-s.webp"
+		},
+		{
+			title: "Profit optimization tools",
+			description: "Calculate optimal listing times, seasonal demand patterns, and profit projections. Turn your side hustle into a predictable revenue stream.",
+			imageSrc: "/generated/image-a-team-of-analysts-in-a-clean-organized-.webp"
+		},
+		{
+			title: "Inventory performance tracking",
+			description: "Track which items sell fastest and generate the highest profits. Focus your sourcing efforts on categories that consistently perform well.",
+			imageSrc: "/generated/image-staff-in-a-well-arranged-stockroom-neatl.webp"
 		}
 	]}
 />
