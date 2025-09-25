@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Turn Vinted data into profitable insights"
+	subtitle="Stop manually researching trends and pricing. Get the competitive intelligence you need to maximize profits and scale your reseller business."
+	imageSrc="/generated/image-a-confident-woman-carefully-sorting-and-.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by resellers scaling their business"
+	logoUrls={[
+		'https://cdn.brandfetch.io/vinted.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/etsy.com/w/400/h/400/logo', 
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/depop.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
