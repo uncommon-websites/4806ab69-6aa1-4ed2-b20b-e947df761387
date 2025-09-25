@@ -26,29 +26,25 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Sell smarter. Earn faster."
+	subtitle="Real market insights for Vinted resellers."
+	imageSrc="/generated/image-a-group-of-professionals-engaged-in-a-co.webp"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"We started Vinted Insights after struggling to grow our own resale side hustles. Hours were lost hunting for trends, guessing at pricing, and missing sales—just because data wasn't easy to find. We knew we weren't the only ones wasting time on blind decisions.",
+		"So we built the tool we always wished we had. Vinted Insights scans Vinted's marketplace in real-time, tracking trending items, optimal pricing, and top-performing categories. No guesswork. No spreadsheets. Just clear insights built specifically for resellers who want to stay one step ahead of the market—and their competition.",
+		"Today, our mission is simple: help 10,000+ resellers make smarter, faster decisions that grow their profits. Whether you're flipping fashion for fun or scaling a serious business, Vinted Insights aims to be your competitive edge. This is just the beginning."
 	]}
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
 	title="Our team."
 	subtitle="Your partners in innovation."
@@ -75,7 +71,6 @@
 />
 
 <StakeholderGrid
-	generating
 	stakeholderType="investor"
 	title="Backed by the best."
 	subtitle="Point Nine, TSIC and others"
@@ -97,8 +92,7 @@
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Ready to start selling smarter?"
+	subtitle="Get the insights that drive results"
+	description="Join thousands of successful Vinted resellers who use our data-driven insights to identify trending items, optimize pricing, and maximize their profits."
 />
