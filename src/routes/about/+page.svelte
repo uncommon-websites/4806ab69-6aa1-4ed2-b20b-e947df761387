@@ -11,16 +11,20 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Data-driven decisions",
+			description: "We believe every reseller deserves access to the same market intelligence that top sellers use to stay ahead."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Side hustle success",
+			description: "Built by resellers, for resellers. We understand the hustle because we've lived it—every feature serves real seller needs."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "No guesswork",
+			description: "Skip the endless scrolling and manual research. We surface the trends and pricing insights that actually move your business forward."
+		},
+		{
+			title: "Trusted insights",
+			description: "From pricing to sourcing, our real-time marketplace data helps over 10,000 resellers make confident decisions every day."
 		}
 	];
 </script>
@@ -92,7 +96,7 @@
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to start selling smarter?"
-	subtitle="Get the insights that drive results"
-	description="Join thousands of successful Vinted resellers who use our data-driven insights to identify trending items, optimize pricing, and maximize their profits."
+	title="Stop guessing. Start growing."
+	subtitle="Get Vinted insights that actually work"
+	description="Join 10,000+ resellers who use real-time marketplace data to spot trends, price competitively, and maximize their side hustle profits. No more endless scrolling—just smart decisions."
 />
